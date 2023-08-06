@@ -1,11 +1,11 @@
 // Default Colors and Mixins...
-$table-border-color: #55779a47;
+$table-border-color: #00ee3447;
 $primary-bg-dark: #283149;
 $secondary-bg-dark: #404B69;
 
 
 @mixin darkBackgroundColor() {
-    background-color: #283149;
+    background-color: #f00f0f; // Changed this to custom color jbt585
     color: #d7d7d7 !important;
 }
 

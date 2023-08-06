@@ -3,7 +3,7 @@ body {
 }
 
 body.dark-page {
-  background-color: #0c0f1b;
+  background-color: #12162c; // this sets the main background-color masalai
   color: #d7d7d7 !important;
   color: #d7d7d7 !important;
 }
@@ -113,7 +113,7 @@ body.dark-page label, body.dark-page .form-label {
   color: #d7d7d7 !important;
 }
 body.dark-page input {
-  background-color: rgba(40, 49, 73, 0.6);
+  background-color: rgba(216, 12, 182, 0.6); // Hello here i am masalai
   border-color: rgba(64, 75, 105, 0.6);
 }
 body.dark-page input.form-control:focus {
